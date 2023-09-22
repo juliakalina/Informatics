@@ -1,4 +1,4 @@
-### **MEPhI course "Informatics"**
+## **MEPhI course "Informatics"**
 
 Lab 1:
 working with numbers
